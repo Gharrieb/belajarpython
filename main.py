@@ -151,9 +151,9 @@ t = stue.temp
 print(t)
 
 #absen26
-
-
-
+from kelas_2b import gharrieb
+cek = gharrieb.gharrieb()
+cek.gharrieb
 
 
 #absen27
